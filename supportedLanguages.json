@@ -1,0 +1,170 @@
+[
+  {
+    "name": "English",
+    "short": "en-US",
+    "messages": [
+      {
+        "name": "account_not_found",
+        "desc": "Account not found"
+      },
+      {
+        "name": "confirm_email",
+        "desc": "Please confirm your email first"
+      },
+      {
+        "name": "account_not_activated",
+        "desc": "Account not activated"
+      },
+      {
+        "name": "invalid_password",
+        "desc": "Invalid password"
+      },
+      {
+        "name": "invalid_token",
+        "desc": "Invalid token"
+      },
+      {
+        "name": "email_alr_verified",
+        "desc": "Email already verified"
+      },
+      {
+        "name": "invalid_code",
+        "desc": "Invalid code"
+      },
+      {
+        "name": "no_password_provided",
+        "desc": "No password provided"
+      },
+      {
+        "name": "acc_activated",
+        "desc": "Account activated"
+      },
+      {
+        "name": "acc_not_activated",
+        "desc": "Account not activated"
+      },
+      {
+        "name": "invalid_email_address",
+        "desc": "Invalid E-Mail Address"
+      },
+      {
+        "name": "no_email_provided",
+        "desc": "No E-Mail Provided"
+      },
+      {
+        "name": "username_in_use",
+        "desc": "Username already in use"
+      },
+      {
+        "name": "email_in_use",
+        "desc": "E-Mail already in use"
+      },
+      {
+        "name": "unknown",
+        "desc": "An unknown error occurred on our Servers."
+      }
+    ],
+    "texts": [
+      {
+        "name": "welcome_back",
+        "desc": "Welcome back"
+      },
+      {
+        "name": "nice_to_see_you",
+        "desc": "Nice to see you!"
+      },
+      {
+        "name": "no_account",
+        "desc": "You don't have an account yet?"
+      },
+      {
+        "name": "alr_account",
+        "desc": "Already have an account?"
+      }
+    ]
+  },
+  {
+    "name": "Deutsch",
+    "short": "de-DE",
+    "messages": [
+      {
+        "name": "account_not_found",
+        "desc": "Account nicht gefunden"
+      },
+      {
+        "name": "confirm_email",
+        "desc": "Bitte bestätige deine E-Mail zuerst"
+      },
+      {
+        "name": "account_not_activated",
+        "desc": "Account nicht aktiviert"
+      },
+      {
+        "name": "invalid_password",
+        "desc": "Ungültiges Password"
+      },
+      {
+        "name": "invalid_token",
+        "desc": "Ungültiger Token"
+      },
+      {
+        "name": "email_alr_verified",
+        "desc": "E-Mail bereits verifiziert"
+      },
+      {
+        "name": "invalid_code",
+        "desc": "Ungültiger Code"
+      },
+      {
+        "name": "no_password_provided",
+        "desc": "Du benötigst ein Passwort"
+      },
+      {
+        "name": "acc_activated",
+        "desc": "Account aktiviert"
+      },
+      {
+        "name": "acc_not_activated",
+        "desc": "Account nicht aktiviert"
+      },
+      {
+        "name": "invalid_email_address",
+        "desc": "Ungültige E-Mail Adresse"
+      },
+      {
+        "name": "no_email_provided",
+        "desc": "Keine E-Mail bereitgestellt"
+      },
+      {
+        "name": "username_in_use",
+        "desc": "Nutzername wird bereits genutzt"
+      },
+      {
+        "name": "email_in_use",
+        "desc": "E-Mail wird bereits genutzt"
+      },
+      {
+        "name": "unknown",
+        "desc": "Ein unbekannter Fehler ist auf unseren Servern aufgetreten"
+      }
+    ],
+    "texts": [
+      {
+        "name": "welcome_back",
+        "desc": "Willkommen zurück"
+      },
+      {
+        "name": "nice_to_see_you",
+        "desc": "Schön dich zu sehen"
+      },
+      {
+        "name": "no_account",
+        "desc": "Noch keinen Account?"
+      },
+      {
+        "name": "alr_account",
+        "desc": "Bereits einen Account?"
+      }
+    ]
+  }
+]
